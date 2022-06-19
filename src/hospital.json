@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "name": "Apollo Hospital",
+    "category": "600 beds available",
+    "priceCents": 13000,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/apollo-hospital-greams-road-chennai.jpg",
+    "Address": "21, Greams Lane, Off Greams Road, Chennai - 600 006",
+    "description": "Apollo Hospitals, Greams Road is the flagship facility of the Apollo Healthcare group. It has facilities and treatments across a wide spectrum of medical specialties. The high standards of medical-care has ensured a dedicated patient-base from India as well as neighboring countries. The group commands a certain respect and credibility amongst its patients.",
+    "key": "Advanced operation theaters (OTs) and critical care unitsHighly-equipped catheter laboratories / Air ambulance services for patients residing in remotely and poorly connected pockets First hospital in South India to have received HACCP certification by the British Standards Institution .Geared with up over 60 departments, the hospital boasts of a retinue of specialists like cardiologists, general surgeons, ophthalmologists, orthopedic surgeons, fertility experts etc."
+  },
+
+  {
+    "id": 2,
+    "name": "Indraprastha  Hospital",
+    "category": "300 beds available",
+    "priceCents": 7000,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/indraprasth-hospital.jpg",
+    "Address": "New Delhi",
+    "description": "Indraprashta Apollo Hospital in New Delhi has gained the reputation of being the most sought after health care center for multi disciplinary medical treatment. Spread across 15 acres, this hospital boasts of state of the art equipments and expert doctors for treating various ailments. Standardized process, trained staff and latest technology mark the stand out points for this hospital",
+    "key": "Treatments for 52 specialties available Foremost in India to successfully conduct Liver Transplant (Pediatric)Maximum beds for ICU with regards to private hospitalsBiggest unit for dialysis in India More than 700 beds for patients"
+  },
+  {
+    "id": 3,
+    "name": "Fortis Hospital",
+    "category": "276 beds available",
+    "priceCents": 27400,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/fortis-hospital.jpg",
+    "Address": "154/9, Bannerghatta Road,Opposite IIM-B, Bengaluru, Karnataka 560076.",
+    "description": "Fortis Hospital at Bannerghatta was established in 2007. Since then it has achieved trust of Bangalore residents along with neighboring parts of Tamil Nadu with the help of its impressive infrastructure. It has earned the ranks of being among the few top multi-specialties in Bangalore in current times.",
+    "key": "276 hospital beds Team of over 150 senior consultants practicing in this facility Treatment facilities available across 40 medical streams The doctors at Bannerghatta are credited in the introduction of custom fit knee replacement and HIFU technology for treatment of prostate cancer India Critical care department that is 24*7 functional The emergency and trauma care department is duly equipped with required life support systems and ACLS trained doctors  Oncology department has treatment facilities for managing different cancer types in adults and children Highly complex procedures like total knee replacement, trans-radial angioplasties etc. performed Sports medicine injuries and orthopedic ailments are managed by an expert team of physiotherapists, orthopedic surgeons and general physicians"
+  },
+  {
+    "id": 4,
+    "name": "Nanavati Hospital",
+    "category": "350 beds available",
+    "priceCents": 114000,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/dr-balabhai-nanavati-hospital.jpg",
+    "Address": "Nanavati HospitalS.V. Road, Vile Parle (West),Mumbai 400 056,",
+    "description": "Born out of a vision to provide healthcare to all strata of society, Nanavati Super Specialty Hospital, Mumbai opened its doors in 1950 and since has grown strength by strength into one of the most reputed tertiary care hospitals in India. Continuously striving for the best of healthcare at very affordable prices, this hospital uses funds from its trust and provides free medical assistance to the needy. It is equipped with a formidable strength of medical and allied professionals and the latest technology which helps in delivering quality care.",
+    "key": "Located in close proximity to Chhatrapati Shivaji International airport Inpatient capacity of 350 beds Treatment available in 55 medical specialities Round the clock emergency and accident services available Full time pharmacy and laboratory services Conducts health camps across the city and in remote areas of Maharashtra Imaging facilities include MRI scanner, high intensity focused ultrasound, 64 slice PET scan -CT scan with cardiac capability, radiography, etc.Equipped with MR guided focused ultrasound surgery technology Super speciality level treatment solution in disciplines like neurology, nephrology, gynecology, cardiology, gastroenterology, plastic surgery, orthopedics, sports medicine and rehabilitation, etc. Empanelled hospital for various PSUs and private companies"
+  },
+
+  {
+    "id": 5,
+    "name": "PMCH",
+    "category": "1750 beds available",
+    "priceCents": 0,
+    "imageColor": "F00",
+    "imageUrl": "https://static.toiimg.com/thumb/msid-66494543,imgsize-449418,width-400,resizemode-4/66494543.jpg",
+    "Address": "Patna , Bihar ",
+    "description": "Patna Medical College and Hospital was established in 1925 and originally known as Prince of Wales Medical College, is a medical college located in Patna, the state capital of Bihar, India. It is located on the southern bank of the river Ganges and is now affiliated to Aryabhatta Knowledge University.",
+    "key": "The PMCH is currently Bihar's largest hospital with 1,750 beds, but after the redevelopment the capacity will increase to 5,462. The project is scheduled to be completed in three phases over seven years.Patna Medical College & Hospital, Patna is committed to provide tertiary health care services to each and every citizen of Bihar and out of Bihar (including the neighbouring country Nepal). The services available are broad speciality and super speciality healthcare free of cost."
+  },
+  {
+    "id": 6,
+    "name": "Paras Hospital",
+    "category": "350 beds available",
+    "priceCents": 17400,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/paras-hospital-patna.jpg",
+    "Address": "NH 30, Bailey Road, Raza Bazar,Patna - 800014, Bihar",
+    "description": "This is the first corporate hospital in Patna. It offers tertiary care for about 25 surgical and medical branches. The hospital has reasonable health-care facility and experts from many faculties. They have advanced infrastructure and equipment that aids efficient services in almost all the fields. They have reputed team of doctors and experienced and trained nurses to deliver the best experience to patients",
+    "key": "Awarded as the best multi specialty hospital in the east First hospital in Bihar to have third generation oncology Equipment like LINAC- Linear Accelerator and PET CT First hospital region to perform minimal invasive cardiac surgery Advanced automated blood transfusion machine 350 bedded multi-specialty tertiary care institute"
+  },
+  {
+    "id": 7,
+    "name": "SevenHills Hospital",
+    "category": "7000 beds available",
+    "priceCents": 195600,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/seven-hill-hospital.jpg",
+    "Address": "SevenHills Health City, Marol Maroshi Road, Andheri East, Mumbai - 400059",
+    "description": "With a strong focus on comprehensive health care for patients, the SevenHills Hospital in Mumbai has made its mark felt in the medical domain with high class infrastructure and hi-tech equipments along with a strong workforce comprising of doctors, nursing and support staff.",
+    "key": " Spread across 17 acres and built-up infrastructure facilities of around 2 million square feet Residential facilities on campus for 300 medical experts, thus offering round the clock availability 120 chambers for OPD, 36 OT's, 24 units for dialysis International airport at close distance Proposed on-campus Helipad 4 bedded room for emergency care equipped with all facilities Well stocked pharmacy."
+  },
+  {
+    "id": 8,
+    "name": "Pristyn Care",
+    "category": "7000 beds available",
+    "priceCents": 45600,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/images/pristyn-care-banner.jpg",
+    "Address": "Holy Promise Hospital, Shivpuri, Rajbansi Nagar, Patna, Bihar 800029",
+    "description": "General surgeons at Pristyn Care are the best and well-known medical professionals in India. We follow world-class health care guidelines to treat diseases like Anal Fistulas, Fissures, Piles, Hemorrhoids, Bawaseer, Pilonidal Sinus, Hydrocele, Varicocele, Hernias, Gallstones, Circumcision and Varicose Veins. We use the latest and advanced medical devices along with USFDA approved surgical techniques to provide the utmost care and reduced risk of infection to all the patients.",
+    "key": " We follow world-class health care guidelines to treat diseases like Anal Fistulas, Fissures, Piles, Hemorrhoids, Bawaseer, Pilonidal Sinus, Hydrocele, Varicocele, Hernias, Gallstones, Circumcision and Varicose Veins. We use the latest and advanced medical devices along with USFDA approved surgical techniques to provide the utmost care and reduced risk of infection to all the patients.All our general surgeons are experts in providing the safest and risk-free surgeries like Laser Fistula Surgery, Laser Pilonidal Sinus Treatment, Laparoscopic Hydrocelectomy, Laser Piles Treatment, Laparoscopic Hernia Repair Surgery, Laser Circumcision, etc."
+  },
+  {
+    "id": 9,
+    "name": "Ashoka Hospital",
+    "category": "650 beds available",
+    "priceCents": 36900,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/blk-hospital.jpg",
+    "Address": "Super Speciality Hospital 108 A, Delhi NCR,",
+    "description": "Set up by known Gynecologist and Obstetrician, Dr. BL Kapur, the BLK Super Specialty Hospital in Delhi combines class and medical brilliance to render quality care and treatment to patients; both domestic and international. Known for its eminent doctors and high class infrastructure, this hospitals ranks amongst the best for super specialty treatments in Delhi.",
+    "key": " 650 hospital beds for treatments Infrastructure spanning across 5 acres 17 fully equipped operation theaters 125 ICU beds for different medical disciplines Wi-Fi enabled campus Paper-less facility for healthcare NABH & NABL accreditation 24X7 blood bank, ambulance and pharmacy services."
+  },
+  {
+    "id": 10,
+    "name": "Max Super Speciality Hospital,",
+    "category": "354 beds available",
+    "priceCents": 66900,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/max-super-speciality-hospital-vaishali.jpg",
+    "Address": "Max Super Speciality Hospital 108 A, Indraprastha Extension, Patparganj, Delhi - 110092",
+    "description": "Max super speciality hospital is one of the premium tertiary care medical centers of excellence across Delhi NCR. It provides unparalleled spectrum of diagnostic, preventive and treatment measures to its valuable patients at reasonable prices. It has set up international standards in various clinical and surgical areas in order to offer best health-care services and facilities.",
+    "key": "354 hospital beds availability Accredited under NABH NABL accredited labs Blood banks accredited under NABL Consists of Xstream FX suite workflow management in the radiology & imaging units State-of-art OTs, with LINAC, HEPA for radiation therapy purposes Cath labs integrated with state-of-art equipment"
+  },
+  {
+    "id": 11,
+    "name": "Columbia Asia Referral Hospital",
+    "category": "789 beds available",
+    "priceCents": 66900,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/columbia-asia-referral-hospital.jpg",
+    "Address": "26/4, Brigade Gateway, Beside Metro, Malleswaram West, Bangalore - 560 055",
+    "description": "If you are looking for comprehensive and super quality health care under one roof then the Columbia Asia Referral Hospital, Yeshwanthpur in Bangalore is a good choice. Being international group of hospitals, the branch at Yeshwanthpur has best facilities that adhere to global standards. ",
+    "key": "24X7 ambulance facility Comprehensive diagnostic and laboratory facilities Fully equipped operation theaters Fully equipped ICUs Major super specialty treatments available International acclaim Different health packages to suit varied needs"
+  },
+  {
+    "id": 12,
+    "name": "Apollo Health City",
+    "category": "350 beds available",
+    "priceCents": 112900,
+    "imageColor": "F00",
+    "imageUrl": "https://www.medifee.com/offers/thyrocare/img/apollo-health-hyderabad.jpg",
+    "Address": "Apollo Health City, Jubilee Hills, Hyderabad 500033, Telangana State, India",
+    "description": "Apollo hospital in Hyderabad is a known medical organization throughout the globe with regards to medical outcomes and technical expertise. This incredible achievement has been made possible by an expert team of doctors and modern infrastructure facilities that have enabled the evolution of Apollo Health City in Hyderabad. This is an unique achievement and a first of its kind health city across Asia that offers comprehensive health solutions at one place. ",
+    "key": "350 hospital beds 10 centers for research, education, information technology and medical excellence; all in one place Entire gamut of wellness and health care covered Internationally acclaimed doctors Around 100,000 domestic as well as international patients attended annually"
+  }
+]

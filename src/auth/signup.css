@@ -1,0 +1,23 @@
+.but {
+  color: aliceblue;
+
+  background: linear-gradient(blue, red);
+}
+
+.Hello {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bhag,
+.bsdk {
+  color: black;
+  font-weight: bold;
+}
+
+.laura,
+.lahsun {
+  color: aliceblue;
+  font-weight: bolder;
+}

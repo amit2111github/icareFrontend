@@ -1,24 +1,47 @@
-import logo from './logo.svg';
-import './App.css';
+import storeItems from "./items.json";
+import hospitalItems from "./hospital.json";
+import Store from "./components/Store";
+import Hospital from "./components/Hospital";
+import Cart from "./components/Cart";
+import useAlan from "./hooks/useAlan";
+import "./App.css";
+import Navbar from "./components/navbar/Navbar";
+import Header from "./containers/header/Header";
+import Brand from "./components/brand/Brand";
+import Brand2 from "./components/HospitalBrand/Brand2";
+import WhatGPT3 from "./containers/whatGPT3/WhatGPT3";
+import Footer from "./containers/footer/Footer";
+import Features from "./containers/features/Features";
+import Signin from "./auth/Sign";
+import Signup from "./auth/Signup";
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
-function App() {
+//
+const Home = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="gradient__bg">
+        <Navbar />
+        <Header />
+      </div>
+      <Brand />
+      <Store items={storeItems} />
+      <Cart />
+      <WhatGPT3 />
+      <Brand2 />
+      <Hospital items={hospitalItems} />
+      <Features />
+      <Footer />
     </div>
+  );
+};
+function App() {
+  useAlan();
+
+  return (
+    <>
+      <Home />
+    </>
   );
 }
 
